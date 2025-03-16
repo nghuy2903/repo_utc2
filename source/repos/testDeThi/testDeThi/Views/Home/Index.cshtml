@@ -1,0 +1,44 @@
+﻿@model IEnumerable<testDeThi.Models.PhanLoaiSanPham>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ul class="tabs list-unstyled">
+    <li data-tab-target="#all" class="active tab">All</li>
+    @foreach (var sp in Model)
+    {
+        <li class="tab" data-category-id="@sp.PhanLoaiSanPhamID">
+            @sp.TenPhanLoai
+        </li>
+    }
+</ul>
+
+
+<div id="product-container">
+    @Html.Partial("_ProductListPartial", (List<testDeThi.Models.Sanpham>)ViewBag.AllProducts)) <!-- Hiển thị mặc định -->
+</div>
+
+
+
+<script>
+    $(document).ready(function () {
+        $(".tab").click(function () {
+            $(".tab").removeClass("active"); // Xóa class active
+            $(this).addClass("active"); // Thêm class active cho tab được chọn
+
+            var categoryId = $(this).data("category-id"); // Lấy category ID
+            $.ajax({
+                url: '@Url.Action("GetProductsByCategory", "Home")',
+                type: 'GET',
+                data: { categoryId: categoryId },
+                success: function (response) {
+                    $("#product-container").html(response); // Thay đổi nội dung sản phẩm
+                },
+                error: function () {
+                    alert("Lỗi khi tải sản phẩm.");
+                }
+            });
+        });
+    });
+</script>

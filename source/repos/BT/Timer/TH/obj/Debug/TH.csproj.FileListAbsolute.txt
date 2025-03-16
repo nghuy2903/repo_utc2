@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\TH\TH\bin\Debug\TH.exe.config
+C:\Users\PC\source\repos\TH\TH\bin\Debug\TH.exe
+C:\Users\PC\source\repos\TH\TH\bin\Debug\TH.pdb
+C:\Users\PC\source\repos\TH\TH\obj\Debug\TH.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TH\TH\obj\Debug\TH.Form1.resources
+C:\Users\PC\source\repos\TH\TH\obj\Debug\TH.Properties.Resources.resources
+C:\Users\PC\source\repos\TH\TH\obj\Debug\TH.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TH\TH\obj\Debug\TH.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TH\TH\obj\Debug\TH.exe
+C:\Users\PC\source\repos\TH\TH\obj\Debug\TH.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\GameQuaySo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE0CE4A-D5C6-4BD3-8770-683C95CBA91E}|GameQuaySo\\GameQuaySo.csproj|c:\\users\\pc\\source\\repos\\gamequayso\\gamequayso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE0CE4A-D5C6-4BD3-8770-683C95CBA91E}|GameQuaySo\\GameQuaySo.csproj|solutionrelative:gamequayso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE0CE4A-D5C6-4BD3-8770-683C95CBA91E}|GameQuaySo\\GameQuaySo.csproj|c:\\users\\pc\\source\\repos\\gamequayso\\gamequayso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDE0CE4A-D5C6-4BD3-8770-683C95CBA91E}|GameQuaySo\\GameQuaySo.csproj|solutionrelative:gamequayso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GameQuaySo\\GameQuaySo\\Form1.cs",
+              "RelativeDocumentMoniker": "GameQuaySo\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GameQuaySo\\GameQuaySo\\Form1.cs",
+              "RelativeToolTip": "GameQuaySo\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAD4v0oAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:12:28.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GameQuaySo\\GameQuaySo\\Form1.cs",
+              "RelativeDocumentMoniker": "GameQuaySo\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GameQuaySo\\GameQuaySo\\Form1.cs [Design]",
+              "RelativeToolTip": "GameQuaySo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:06:28.318Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

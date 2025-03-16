@@ -1,0 +1,54 @@
+﻿@model IEnumerable<testthithu.Models.PhanLoaiSanPham>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@*Nhớ thêm <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>*@
+
+<div>
+    <a href="@Url.Action("Create", "Home")" class="btn btn-primary">
+        ADD NEW A PRODUCT
+    </a>
+</div>
+
+<ul class="tabs list-unstyled">
+    <li data-tab-target="#all" class="active tab" data-category-id="all">All</li>
+    @foreach (var sp in Model)
+    {
+        <li class="tab" data-category-id="@sp.PhanLoaiSanPhamID">
+            @sp.TenPhanLoai
+        </li>
+    }
+</ul>
+
+
+<div id="product-container">
+    @Html.Partial("_ProductListPartial", (List<testthithu.Models.Sanpham>)ViewBag.AllProducts)) <!-- Hiển thị mặc định -->
+</div>
+
+
+
+<script>
+    $(document).ready(function () {
+        $(".tab").click(function () {
+            $(".tab").removeClass("active"); // Xóa class active
+            $(this).addClass("active"); // Thêm class active cho tab được chọn
+
+            var categoryId = $(this).data("category-id"); // Lấy category ID
+            if (categoryId === "all") {
+                categoryId = null; // Set categoryId là null để tải tất cả sản phẩm
+            }
+            $.ajax({
+                url: '@Url.Action("GetProductsByCategory", "Home")',
+                type: 'GET',
+                data: { categoryId: categoryId },
+                success: function (response) {
+                    $("#product-container").html(response); // Thay đổi nội dung sản phẩm
+                },
+                error: function () {
+                    alert("Lỗi khi tải sản phẩm.");
+                }
+            });
+        });
+    });
+</script>

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|c:\\users\\pc\\source\\repos\\validationmessage\\validationmessage\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|c:\\users\\pc\\source\\repos\\validationmessage\\validationmessage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\models\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\models\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|C:\\Users\\PC\\source\\repos\\ValidationMessage\\validationmessage\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF574EF-D529-4E2B-930D-7CFF46AB0D65}|ValidationMessage\\ValidationMessage.csproj|solutionrelative:validationmessage\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ValidationMessage\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ValidationMessage\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:16:06.275Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "ValidationMessage\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "ValidationMessage\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:30:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Models\\CategoryContext.cs",
+              "RelativeDocumentMoniker": "ValidationMessage\\Models\\CategoryContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Models\\CategoryContext.cs",
+              "RelativeToolTip": "ValidationMessage\\Models\\CategoryContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:56:16.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "ValidationMessage\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "ValidationMessage\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T08:16:05.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ValidationMessage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ValidationMessage\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T07:14:25.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ValidationMessage\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ValidationMessage\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:04:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Web.config",
+              "RelativeDocumentMoniker": "ValidationMessage\\Web.config",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Web.config",
+              "RelativeToolTip": "ValidationMessage\\Web.config",
+              "ViewState": "AgIAADkAAAAAAAAAAAAlwEYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-18T09:12:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ValidationMessage\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ValidationMessage\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T10:11:31.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ValidationMessage\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Models\\Category.cs",
+              "RelativeToolTip": "ValidationMessage\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:49:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ValidationMessage\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ValidationMessage\\ValidationMessage\\Models\\Student.cs",
+              "RelativeToolTip": "ValidationMessage\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:26:25.767Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

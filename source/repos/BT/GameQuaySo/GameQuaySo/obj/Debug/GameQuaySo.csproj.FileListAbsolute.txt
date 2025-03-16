@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\bin\Debug\GameQuaySo.exe.config
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\bin\Debug\GameQuaySo.exe
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\bin\Debug\GameQuaySo.pdb
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\obj\Debug\GameQuaySo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\obj\Debug\GameQuaySo.Form1.resources
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\obj\Debug\GameQuaySo.Properties.Resources.resources
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\obj\Debug\GameQuaySo.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\obj\Debug\GameQuaySo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\obj\Debug\GameQuaySo.exe
+C:\Users\PC\source\repos\GameQuaySo\GameQuaySo\obj\Debug\GameQuaySo.pdb

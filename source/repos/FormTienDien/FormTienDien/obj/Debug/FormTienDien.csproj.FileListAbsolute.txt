@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\bin\Debug\FormTienDien.exe.config
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\bin\Debug\FormTienDien.exe
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\bin\Debug\FormTienDien.pdb
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\obj\Debug\FormTienDien.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\obj\Debug\FormTienDien.Properties.Resources.resources
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\obj\Debug\FormTienDien.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\obj\Debug\FormTienDien.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\obj\Debug\FormTienDien.exe
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\obj\Debug\FormTienDien.pdb
+C:\Users\PC\source\repos\FormTienDien\FormTienDien\obj\Debug\FormTienDien.Form1.resources

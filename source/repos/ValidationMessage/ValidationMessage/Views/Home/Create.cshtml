@@ -1,0 +1,95 @@
+﻿@model ValidationMessage.Models.Student
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color:blue">This is application form</h2>
+
+<p>
+    @*@Html.ValidationSummary("", new { @class = "text-danger" })*@ <!-- If you want to enable Validation Summary -->
+</p>
+
+<div class="form-group">
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+        <div class="form-row">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.Name, new { @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            @ViewData["NameError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.Age, htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.Age, new { type = "number", min = "10", max = "100", @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.Age, "", new { @class = "text-danger" })
+            @ViewData["AgeError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.PhoneNumber, new { type = "tel", pattern = "\\d{10}", title = "Phone number must be 10 digits", @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+            @ViewData["PhoneError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.Email, new { type = "email", @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            @ViewData["EmailError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "form-label" })
+            @Html.PasswordFor(model => model.Password, new { @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            @ViewData["PasswordError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "form-label" })
+            @Html.PasswordFor(model => model.ConfirmPassword, new { @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+            @ViewData["ConfirmPasswordError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.Gender, htmlAttributes: new { @class = "form-label" })
+            <div class="form-radio">
+                @Html.RadioButtonFor(model => model.Gender, "Male") <label>Male</label> @Html.Raw("&nbsp;")
+                @Html.RadioButtonFor(model => model.Gender, "Female") <label>Female</label> @Html.Raw("&nbsp;")
+                @Html.RadioButtonFor(model => model.Gender, "Others") <label>Others</label>
+            </div>
+            @Html.ValidationMessageFor(model => model.Gender)
+            @ViewData["GenderError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.Country, htmlAttributes: new { @class = "form-label" })
+            @Html.DropDownListFor(model => model.Country, new SelectList(new[] { "Vietnam", "China", "England" }), "Select Country", new { @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.Country, "", new { @class = "text-danger" })
+            @ViewData["CountryError"]
+        </div>
+
+        <div class="form-row">
+            @Html.LabelFor(model => model.Note, htmlAttributes: new { @class = "form-label" })
+            @Html.TextAreaFor(model => model.Note, 10, 70, new { @class = "form-input" })
+            @Html.ValidationMessageFor(model => model.Note, "", new { @class = "text-danger" })
+            @ViewData["NoteError"]
+        </div>
+
+        <div class="form-row" id="cbAccept">
+            @Html.CheckBoxFor(model => model.AcceptTerm) @Html.Label("I accept the terms")
+            @ViewData["AcceptTermError"]
+        </div>
+
+        <div class="form-row">
+            @Html.HiddenFor(model => model.Id)
+            <input type="submit" value="Submit" class="form-submit" />
+        </div>
+
+        @Html.Raw(ViewData["SuccessMessage"])
+    }
+</div>

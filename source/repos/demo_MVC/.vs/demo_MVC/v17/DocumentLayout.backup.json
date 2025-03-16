@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\demo_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|c:\\users\\pc\\source\\repos\\demo_mvc\\demo_mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|solutionrelative:demo_mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_mvc\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|solutionrelative:demo_mvc\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|solutionrelative:demo_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|solutionrelative:demo_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31DFE2E0-C11C-4DBE-B88D-7A91A7D1EE40}|demo_MVC\\demo_MVC.csproj|solutionrelative:demo_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "demo_MVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "demo_MVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:56:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "demo_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "demo_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:50:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "demo_MVC\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "demo_MVC\\Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:48:29.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "demo_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "demo_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T07:37:46.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "demo_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\demo_MVC\\demo_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "demo_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:36:32.136Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
